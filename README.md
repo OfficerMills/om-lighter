@@ -72,7 +72,6 @@ To enable debug logs for troubleshooting, set `Config.Debug = true` in `config.l
 ## Support
 For any issues or questions, feel free to reach out.
 https://discord.gg/OfficerMills
-```
 
 
 <div align="middle">
