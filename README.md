@@ -14,6 +14,7 @@ This script allows players to use a **Zippo lighter** item in your FiveM server 
 ### 1. Dependencies
 This script requires the following dependencies:
 - [qb-core](https://github.com/qbcore-framework/qb-core)
+- [qb-inventory](https://github.com/qbcore-framework/qb-inventory)
 
 ### 2. Adding the Item
 Add the following item to your `shared/items.lua` file in your QBCore resources:
