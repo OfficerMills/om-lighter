@@ -13,12 +13,14 @@ This script allows players to use a **Zippo lighter** item in your FiveM server 
 
 ### 1. Dependencies
 This script requires the following dependencies:
-- **qb-core**: Core framework for QBCore-based servers.
+- [qb-core](https://github.com/qbcore-framework/qb-core)
+- [qb-inventory](https://github.com/qbcore-framework/qb-inventory)
+
 
 ### 2. Adding the Item
 Add the following item to your `shared/items.lua` file in your QBCore resources:
 ```lua
-zippo_lighter = { name = "zippo_lighter", label = "Flint Lighter", weight = 175, type = "item", image = "zippo_lighter.png", unique = true, useable = true, description = "A dangerous fire starting tool." }
+zippo_lighter = { name = "zippo_lighter", label = "Flint Lighter", weight = 200, type = "item", image = "zippo_lighter.png", unique = false, useable = true, description = "A classic Zippo lighter." }
 
 }
 ```
@@ -63,11 +65,6 @@ To enable debug logs for troubleshooting, set `Config.Debug = true` in `config.l
 - **Dict**: The animation dictionary to use when lighting the fire.
 - **Name**: The animation name to play.
 - **Duration**: How long the animation lasts (in milliseconds).
-
-### Placement Offset
-- **X**: Forward offset to place fire in front of the player.
-- **Y**: Sideways offset.
-- **Z**: Vertical offset.
 
 ---
 
