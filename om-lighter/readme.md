@@ -5,7 +5,7 @@
     <img width="auto" src="https://user-images.githubusercontent.com/91661118/154636617-a2ad4c09-4b60-4438-832a-ed1c505b52ea.png"/>
 </div>
 
-This script allows players to use a **Zippo lighter** item in your FiveM server to start fires, with fire spreading dynamically. The configuration is highly customizable, allowing you to define fire growth behavior, animation settings, and placement offsets.
+This script allows players to use a **Flint Wheel Lighter** item in your FiveM server to start fires, with fire spreading dynamically. The configuration is highly customizable, allowing you to define fire growth behavior, animation settings, and placement offsets.
 
 ---
 
@@ -18,7 +18,8 @@ This script requires the following dependencies:
 
 
 ### 2. Adding the Item
-Add the following item to your `shared/items.lua` file in your QBCore resources:
+Add the following item to your `shared/items.lua` file in the qb-core folder:
+
 ```lua
 zippo_lighter = { name = "zippo_lighter", label = "Flint Lighter", weight = 200, type = "item", image = "zippo_lighter.png", unique = false, useable = true, description = "A classic Zippo lighter." }
 
@@ -46,6 +47,8 @@ Ensure you also add the image from the [IMAGES](https://github.com/OfficerMills/
 
 ### 5. Optional Debugging
 To enable debug logs for troubleshooting, set `Config.Debug = true` in `config.lua`.
+
+> Add the `zippo_lighter` item to a shop, a black market script, or a crafting script of your choice for player accessibility.
 
 ---
 
