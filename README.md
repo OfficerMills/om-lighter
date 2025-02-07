@@ -1,6 +1,10 @@
 ```markdown
 # FiveM Zippo Lighter Script
 
+<div align="middle">
+    <img width="auto" src="https://user-images.githubusercontent.com/91661118/154636617-a2ad4c09-4b60-4438-832a-ed1c505b52ea.png"/>
+</div>
+
 This script allows players to use a **Zippo lighter** item in your FiveM server to start fires, with fire spreading dynamically. The configuration is highly customizable, allowing you to define fire growth behavior, animation settings, and placement offsets.
 
 ---
