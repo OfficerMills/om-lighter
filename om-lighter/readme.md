@@ -23,7 +23,7 @@ zippo_lighter = { name = "zippo_lighter", label = "Zippo Lighter", weight = 200,
 }
 ```
 
-Ensure you also add the image from the IMAGES folder `zippo_lighter.png` to your inventory UI's image folder.
+Ensure you also add the image from the [IMAGES](https://github.com/OfficerMills/om-lighter/tree/main/om-lighter%2FIMAGES) folder `zippo_lighter.png` to your inventory UI's image folder.
 
 ### 3. Script Installation
 1. **Place the Script**:
