@@ -19,7 +19,7 @@ zippo_lighter = { name = "zippo_lighter", label = "Zippo Lighter", weight = 200,
 }
 ```
 
-Ensure you also add an image named `zippo_lighter.png` to your inventory UI's image folder.
+Ensure you also add the image from the IMAGES folder `zippo_lighter.png` to your inventory UI's image folder.
 
 ### 3. Script Installation
 1. **Place the Script**:
@@ -32,7 +32,7 @@ Ensure you also add an image named `zippo_lighter.png` to your inventory UI's im
      ```
 
 3. **Configuration**:
-   - Edit the `config.lua` file to adjust settings like fire growth, animation duration, debug logging, and placement offsets.
+   - Edit the `config.lua` file to adjust settings like fire growth, animation duration, debug logging, and placement offsets.(Not recommend to adjust for spread/size unless you know what you are doing).
 
 ### 4. Usage
 - Players can use the `zippo_lighter` item from their inventory to light fires.
