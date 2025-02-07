@@ -18,7 +18,7 @@ This script requires the following dependencies:
 ### 2. Adding the Item
 Add the following item to your `shared/items.lua` file in your QBCore resources:
 ```lua
-zippo_lighter = { name = "zippo_lighter", label = "Fire Lighter", weight = 175, type = "item", image = "zippo_lighter.png", unique = true, useable = true, description = "A dangerous fire starting tool." }
+zippo_lighter = { name = "zippo_lighter", label = "Flint Lighter", weight = 175, type = "item", image = "zippo_lighter.png", unique = true, useable = true, description = "A dangerous fire starting tool." }
 
 }
 ```
