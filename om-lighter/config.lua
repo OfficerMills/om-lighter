@@ -7,7 +7,7 @@
 Config = {}
 
 -- Debug settings
-Config.Debug = false -- Enable or disable debug logs
+Config.Debug = false
 
 -- Fire spread configuration
 Config.FireSpread = {
@@ -21,7 +21,7 @@ Config.FireSpread = {
 }
 
 -- Gas fire settings
-Config.IsGasFire = false -- Whether the fire is powered by gas
+Config.IsGasFire = false -- Whether the fire is powered by gas (LEAVE AS FALSE)
 
 -- Animation settings
 Config.Animation = {
