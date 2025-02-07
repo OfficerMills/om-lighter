@@ -73,3 +73,8 @@ To enable debug logs for troubleshooting, set `Config.Debug = true` in `config.l
 For any issues or questions, feel free to reach out.
 https://discord.gg/OfficerMills
 ```
+
+
+<div align="middle">
+    <img width="auto" src="https://user-images.githubusercontent.com/91661118/154636617-a2ad4c09-4b60-4438-832a-ed1c505b52ea.png"/>
+</div>
