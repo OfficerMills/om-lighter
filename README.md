@@ -65,11 +65,6 @@ To enable debug logs for troubleshooting, set `Config.Debug = true` in `config.l
 - **Name**: The animation name to play.
 - **Duration**: How long the animation lasts (in milliseconds).
 
-### Placement Offset
-- **X**: Forward offset to place fire in front of the player.
-- **Y**: Sideways offset.
-- **Z**: Vertical offset.
-
 ---
 
 ## Support
