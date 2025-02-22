@@ -1,4 +1,4 @@
-[![Officer Mills GitHub stats](https://github-readme-stats.vercel.app/api/?username=officermills&amp;theme=dark&amp;show_icons=true)
+![Officer Mills GitHub stats](https://github-readme-stats.vercel.app/api/?username=officermills&amp;theme=dark&amp;show_icons=true)
 
 # FiveM Zippo Lighter Script
 
