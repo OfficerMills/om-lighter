@@ -1,3 +1,5 @@
+![Discord](https://discord.com/api/guilds/1063028749169332284/widget.json)
+
 ![Officer Mills GitHub stats](https://github-readme-stats.vercel.app/api/?username=officermills&amp;theme=dark&amp;show_icons=true)
 
 ![Officer Mills GitHub stats](https://img.shields.io/github/followers/officermills)
